@@ -1,7 +1,4 @@
 # RAG Notebooks Analysis
-
-## Author: Ibrahim  
-## Date: *(Auto-generated on request)*  
 ## Repository: [RAG-notebooks](https://github.com/IbrahimDayax/RAG-notebooks)  
 
 ---
